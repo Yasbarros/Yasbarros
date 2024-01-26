@@ -1,5 +1,6 @@
 ### Bem-vindo ao meu repositório! :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yasmim-barros-8b1491200/) 
+<a href = "mailto:barrosyasmim13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ##
 <div style="display: inline_block"><br>
   
