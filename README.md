@@ -1,4 +1,4 @@
-### Bem vindo ao meu portifólio
+### Bem vindo ao meu portifólio!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yasmim-barros-8b1491200/) 
 
 <div style="display: inline_block"><br>
