@@ -1,4 +1,4 @@
-# Olá! Eu sou a Yas! 
+# Olá, eu sou a Yas! 
 # Seja bem-vindo ao meu repositório! 
 
 ### 
