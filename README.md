@@ -1,6 +1,7 @@
-# Olá! Eu sou a Yas :)
+# Olá! Eu sou a Yas! 
+# Seja bem-vindo ao meu repositório! 
 
-### Bem-vindo ao meu repositório! 
+### 
 
 🎓 Estudante de Sistemas de Informação.
 
