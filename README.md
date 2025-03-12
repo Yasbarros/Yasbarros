@@ -31,13 +31,10 @@
 
 ##
 
-### 💹 Aprendendo: 
+<!--### 💹 Aprendendo: 
 <div style="display: inline_block"><br>
    <img align="center" alt="git" width="50" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
-</div>
-
-
-##
+</div>-->
 
 
 <br/>
