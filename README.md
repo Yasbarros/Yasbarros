@@ -2,6 +2,7 @@
 ### Seja bem-vindo ao meu repositório! 
 
 ### 
+💻 Desenvolvedora Full-STack
 
 🎓 Estudante de Sistemas de Informação.
 
