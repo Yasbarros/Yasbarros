@@ -2,7 +2,7 @@
 ### Seja bem-vindo ao meu repositório! 
 
 ### 
-💻 Desenvolvedora Full-STack
+💻 Desenvolvedora Full-Stack
 
 🎓 Estudante de Sistemas de Informação.
 
