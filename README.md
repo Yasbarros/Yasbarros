@@ -14,7 +14,7 @@
 <a href="https://yasbarros.vercel.app" style="background:white, color:black" target="_blank">Portfólio</a> 
 ##
 ### 💻 Habilidades: 
-<div style="display: inline_block"><br>
+<div style="display: flex, justify-align: row"><br>
   
   <img align="center" alt="HTML" width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
