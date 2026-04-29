@@ -14,7 +14,24 @@
 <a href="https://yasbarros.vercel.app" style="background:white, color:black" target="_blank">Portfólio</a> 
 ##
 ### 💻 Habilidades: 
-<p align="center"><img width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/><img width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/><img width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/><img width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"/><img width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/><img width="50" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/><img width="50" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/><img width="50" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/></p>
+<table>
+  <tr>
+    <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+    <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+    <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></td>
+    <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+    <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
+    <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></td>
+  </tr>
+  <tr>
+    <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
+    <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"></td>
+    <td><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></td>
+    <td><img width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></td>
+    <td><img width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></td>
+    <td><img width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></td>
+  </tr>
+</table>
 
 ##
 
