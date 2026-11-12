@@ -38,14 +38,15 @@
 <!--### 💹 Aprendendo: 
 <div style="display: inline_block"><br>
    <img align="center" alt="git" width="50" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
-</div>-->
-
+</div>-
 
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-   <!-- <img src="https://github-readme-stats.vercel.app/api?username=YasBarros&theme=react&hide_border=true&include_all_commits=false&count_private=false" style="margin-right: 10px;" />-->
+    <img src="https://github-readme-stats.vercel.app/api?username=YasBarros&theme=react&hide_border=true&include_all_commits=false&count_private=false" style="margin-right: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasBarros&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+</div> 
+-->
+
 
 
